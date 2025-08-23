@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 👋 Hi, I’m @Honey-pg
+ - 👋 Hi, I’m Prerak Yadav
 - 👀 I’m interested in:
   - Open source projects
   - Web development
