@@ -14,9 +14,11 @@
 <p align="center">
   <b>BUILD • BREAK • REBUILD</b>
 </p>
+<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Honey-pg/Honey-pg/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honey-pg&theme=tokyonight" />
 </p>
+--->
 <!---
 Honey-pg/Honey-pg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
